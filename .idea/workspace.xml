@@ -59,7 +59,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -279,10 +279,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="938" height="296" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603934287504" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1603780037431">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1603985663833">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603780037431" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603985663833" />
     <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603983637809">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -299,9 +299,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603779626222" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1603780013498">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1603985460259">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603780013498" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603985460259" />
   </component>
 </project>
