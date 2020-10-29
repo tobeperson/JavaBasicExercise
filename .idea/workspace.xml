@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58bd9cef-f433-4209-b013-ec3624dbbe5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/tobeperson/JavaBasicExercise" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ifzweJsyUIY7oTsD9XhGJZPskO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xxoo\IdeaProjects\Test\src\com\company\tobeace" />
+      <recent name="C:\Users\xxoo\IdeaProjects\Test\src\com\company\tobeace\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UseVolatileSaveStateDemo">
+    <configuration name="LeetCodeDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tobeace.LeetCodeDemo" />
+      <module name="Test" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tobeace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunableThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tobeace.TestRunableThreadDemo" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tobeace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreadPoolDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tobeace.TestThreadPoolDemo1" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tobeace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreadPoolDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tobeace.TestThreadPoolDemo2" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tobeace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsafeCountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tobeace.UnsafeCountDemo" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tobeace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseVolatileSaveStateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tobeace.UseVolatileSaveStateDemo" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tobeace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LeetCodeDemo" />
+      <item itemvalue="Application.TestRunableThreadDemo" />
+      <item itemvalue="Application.TestThreadPoolDemo1" />
+      <item itemvalue="Application.TestThreadPoolDemo2" />
+      <item itemvalue="Application.UnsafeCountDemo" />
+      <item itemvalue="Application.UseVolatileSaveStateDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UseVolatileSaveStateDemo" />
+        <item itemvalue="Application.TestThreadPoolDemo2" />
+        <item itemvalue="Application.TestThreadPoolDemo1" />
+        <item itemvalue="Application.TestRunableThreadDemo" />
+        <item itemvalue="Application.UnsafeCountDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/xxoo/IdeaProjects/Test/src/com/company/tobeace" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Time Commit in my Computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Time Commit in my Computer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="99" key="#Project_Structure" timestamp="1603866598546">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1603866598546" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603867486805">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603867486805" />
+    <state x="720" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602331754153">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="720" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1602331754153" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1603980911961">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1603980911961" />
+    <state x="689" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603867484773">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603867484773" />
+    <state x="704" y="204" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602596780588">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="704" y="204" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602596780588" />
+    <state x="558" y="91" key="CommitChangelistDialog2" timestamp="1603981810412">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="558" y="91" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1603981810412" />
+    <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1603779447549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603779447549" />
+    <state x="832" y="422" key="Github.ShareDialog" timestamp="1603779807921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603779807921" />
+    <state width="938" height="2" key="GridCell.Tab.0.bottom" timestamp="1603983969989">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603983969989" />
+    <state width="938" height="2" key="GridCell.Tab.0.center" timestamp="1603983969988">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603983969988" />
+    <state width="938" height="2" key="GridCell.Tab.0.left" timestamp="1603983969988">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603983969988" />
+    <state width="938" height="2" key="GridCell.Tab.0.right" timestamp="1603983969989">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603983969989" />
+    <state width="938" height="296" key="GridCell.Tab.1.bottom" timestamp="1603934287504">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="296" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603934287504" />
+    <state width="938" height="296" key="GridCell.Tab.1.center" timestamp="1603934287504">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="296" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603934287504" />
+    <state width="938" height="296" key="GridCell.Tab.1.left" timestamp="1603934287504">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="296" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603934287504" />
+    <state width="938" height="296" key="GridCell.Tab.1.right" timestamp="1603934287504">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="296" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603934287504" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1603780037431">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603780037431" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603983637809">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603983637809" />
+    <state x="690" y="284" key="extract.method.dialog" timestamp="1602662768675">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="284" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602662768675" />
+    <state x="720" y="236" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603780432230">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="720" y="236" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603780432230" />
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603779626222">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603779626222" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1603780013498">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603780013498" />
+  </component>
+</project>
